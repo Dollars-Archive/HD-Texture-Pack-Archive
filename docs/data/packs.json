@@ -1,0 +1,21 @@
+{
+  "packs": [
+    {
+      "id": "guardian-angel-hd",
+      "patch_repo": "Guardian-Angel-Korean-Localization",
+      "game": "가디언 엔젤",
+      "original": "ガーディアンエンジェル / Guardian Angel",
+      "platforms": [
+        "PS2"
+      ],
+      "emulator": "PCSX2",
+      "title": "가디언 엔젤 HD texture pack",
+      "description": "가디언 엔젤의 HD 텍스처 팩입니다.",
+      "download_url": "",
+      "updated_at": "2026-10-11",
+      "confirmation": "사용자 HD 팩 보유 확인 (2026-10-11)",
+      "cover": "https://dollars-archive.github.io/Dollars-Archive/covers/Guardian-Angel-Korean-Localization.webp?v=e7bc3b2e946d",
+      "cover_source": "https://gamesdb.launchbox-app.com/games/details/375952-guardian-angel"
+    }
+  ]
+}
